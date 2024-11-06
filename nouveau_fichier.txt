@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Autre Nouveau Fichier
+=======
+Nouveau Fichier
+>>>>>>> 7590f97 (Ajout de contenu dans la branche feature-ajout-contenu)
